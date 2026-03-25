@@ -11,3 +11,12 @@ One of the trickiest aspects was balancing the amount of text with visuals. Too 
 The color scheme and typography selection proved crucial for establishing visual hierarchy. I used contrasting colors to highlight critical safety tips, making them immediately noticeable without requiring readers to parse through dense paragraphs. Icons and illustrations added visual interest while reinforcing the message visually.
 
 This project reinforced the value of visual communication in digital literacy education. Infographics can make complex safety concepts accessible and memorable.
+
+
+The experience also highlighted the importance of audience awareness in digital design. Understanding that the target audience includes individuals with varying levels of technical knowledge, I focused on creating content that was both accessible to beginners and informative for advanced users. This balance was achieved through strategic layering of information, where basic concepts were presented prominently while additional details were available through supporting visuals.
+
+Canva's collaboration features enabled real-time feedback from peers, which proved invaluable for refining the design. The ability to share draft versions and receive immediate input helped identify areas where the message could be clearer or where visual elements might be overwhelming. This iterative process of design, feedback, and revision mirrors professional workflows in digital content creation.
+
+Furthermore, the project emphasized the growing role of AI in democratizing design. Previously, creating professional infographics required extensive training in tools like Adobe Illustrator. Canva's AI capabilities lower this barrier, enabling individuals without formal design education to produce high-quality visual content. This accessibility is particularly relevant in digital literacy education, where the focus should be on message clarity rather than technical design skills.
+
+The font pairing suggestions from Canva AI helped maintain readability while establishing visual hierarchy. I learned that typography isn't just about aesthetics but plays a crucial role in guiding the reader's eye through the information flow. The AI recommended combinations that enhanced legibility across different screen sizes, ensuring the infographic would be effective on both mobile devices and desktop displays.
