@@ -6,7 +6,7 @@
 
 Subject: Request for Assignment Deadline Extension
 
-Dear Professor Dr. Swostik Shubham Behra,
+Dear Professor Dr. Swostik Shubham Behera,
 
 I am writing to request a brief extension on the Ferrero Research due on May 27. Due to family reason, I have been unable to complete the assignment to the standard I strive for. I would greatly appreciate an extension of 3 days to submit quality work.
 
