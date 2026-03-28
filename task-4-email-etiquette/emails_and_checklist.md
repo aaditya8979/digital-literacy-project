@@ -6,28 +6,28 @@
 
 Subject: Request for Assignment Deadline Extension
 
-Dear Professor [Name],
+Dear Professor Dr. Swostik Shubham Behra,
 
-I am writing to request a brief extension on the [Assignment Name] due on [Original Date]. Due to [legitimate reason - illness, family emergency, technical issues], I have been unable to complete the assignment to the standard I strive for. I would greatly appreciate an extension of [number of days - typically 2-3 days] to submit quality work.
+I am writing to request a brief extension on the Ferrero Research due on May 27. Due to family reason, I have been unable to complete the assignment to the standard I strive for. I would greatly appreciate an extension of 3 days to submit quality work.
 
-I have already completed [mention any progress] and am committed to submitting by [proposed new date]. Thank you for considering my request.
+I have already completed 60% and am committed to submitting by June 1 . Thank you for considering my request.
 
 Respectfully,
-[Your Name]
-[Student ID]
+Aaditya Agarwal
+25BAI10079
 
 ### Email 2: Internship Interest Expression
 
 Subject: Interest in Summer Internship Position
 
-Dear [Hiring Manager Name],
+Dear Rachit Singh,
 
-I am writing to express my strong interest in the summer internship position at [Company Name]. With my background in [relevant field] and hands-on experience in [specific skills], I am enthusiastic about contributing to your team. I have attached my resume for your review and would welcome the opportunity to discuss how I can add value to your organization.
+I am writing to express my strong interest in the summer internship position at Room-bond. With my background in Web Development and System Arhchitecture and hands-on experience in Integrating Artificial Intellegence, I am enthusiastic about contributing to your team. I have attached my resume for your review and would welcome the opportunity to discuss how I can add value to your organization.
 
 Thank you for your consideration.
 
 Best regards,
-[Your Name]
+Aaditya Agarwal
 
 ## Responsible Social Media Use: Do's and Don'ts
 
