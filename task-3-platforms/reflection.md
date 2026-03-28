@@ -2,15 +2,18 @@
 
 ## HackerRank and Google Forms Experience
 
-Competing in the beginner Python challenge on HackerRank and building a Google Form quiz provided practical exposure to digital tools that are essential for academic collaboration and skill development. This reflection explores how these platforms facilitate learning and teamwork.
-
-HackerRank presented me with real-world coding challenges that required algorithmic thinking and problem-solving. Working through the beginner Python problems strengthened my foundational programming skills and provided immediate feedback on code correctness. The competitive nature of the platform motivated continuous improvement. Google Forms, on the other hand, offered a simple yet powerful tool for creating assessments and surveys, which is invaluable for academic collaboration. Building a quiz helped me understand how to structure questions effectively, incorporate different question types, and create organized feedback mechanisms.
-
-Together, these tools demonstrate the breadth of digital platforms available for education. HackerRank supports hands-on technical skill development, while Google Forms enables collaborative assessment and data collection. Both tools are freely accessible and widely used in academic and professional settings, making them essential components of digital literacy. These platforms will continue to be valuable resources throughout my academic and professional journey.
+<img width="1251" height="852" alt="image" src="https://github.com/user-attachments/assets/1b9f23b4-a8a9-43cc-950f-3ac345c8e2da" />
 
 
-The HackerRank experience has profoundly influenced my approach to technical interviews and problem-solving methodology. Beyond just solving problems, I learned the importance of code optimization and understanding time and space complexity. Each challenge taught me to think critically about edge cases, test boundary conditions, and write defensive code that handles unexpected inputs gracefully. The platform's discussion forums exposed me to multiple solution approaches, demonstrating that there are often numerous ways to solve a single problem, each with different trade-offs.
+<img width="1710" height="826" alt="image" src="https://github.com/user-attachments/assets/9c6f086e-8d01-4b70-a3cc-aef8c01ebcfe" />
 
-Google Forms proved to be more versatile than I initially anticipated. While creating the quiz, I discovered advanced features like response validation, conditional logic for adaptive questioning, and automatic grading capabilities. The platform's integration with Google Sheets enabled powerful data analysis, allowing me to generate insights from collected responses through pivot tables and charts. This experience highlighted how seemingly simple tools can be leveraged for sophisticated data collection and analysis when understood deeply.
+<img width="1710" height="708" alt="image" src="https://github.com/user-attachments/assets/bc228e99-21a4-4127-a2c0-37eb7189ca69" />
 
-Both platforms emphasized the importance of user experience in digital tool design. HackerRank's clean interface and immediate feedback mechanism kept me engaged, while Google Forms' intuitive form builder made complex survey creation accessible. This taught me that effective digital literacy involves not just using tools, but understanding design principles that make technology accessible and engaging for diverse user populations.
+
+Link to google form - https://docs.google.com/forms/d/e/1FAIpQLSeUWjUxpl-B8bGzSAv9LlV-5bE79PN6p4YO6YgcXfPB0scFRA/viewform?usp=publish-editor
+
+On HackerRank, I completed a beginner Python challenge. This platform presented real-world coding problems that required algorithmic thinking and code optimization. It provided immediate feedback on my code's correctness, teaching me to think critically about edge cases and testing boundary conditions. 
+
+Additionally, I built a 5-question 'Digital Literacy Awareness Quiz' using Google Forms. This exercise taught me how to effectively structure different question types and utilize the platform's integration with Google Sheets to organize and analyze response data automatically.
+
+Academically, both tools will be essential over the next four years. HackerRank will serve as a foundational platform for honing my programming logic and preparing for technical interviews. Meanwhile, Google Forms and Sheets will be critical for academic collaboration, allowing me to easily collect data, conduct surveys for group research projects, and organize peer feedback efficiently. Together, they perfectly bridge the gap between individual technical practice and team-based collaboration.
