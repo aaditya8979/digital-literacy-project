@@ -1,22 +1,10 @@
 # Task 1: Digital Presentation Design - Reflection
 
-## Canva AI Infographic Project
-
-This reflection captures my experience using Canva AI to design an infographic focused on safe internet practices and professional online presence. The project provided valuable insights into balancing visual design with informative content.
-
-Creating the infographic was a enlightening journey. I leveraged Canva's AI-powered design suggestions to quickly generate layout templates that maintained visual consistency. The AI features helped accelerate the initial design phase, allowing me to focus on customizing elements and fine-tuning the message.
-
-One of the trickiest aspects was balancing the amount of text with visuals. Too much text would clutter the infographic and overwhelm viewers, while too little text would fail to convey the important safety messages. I had to carefully consider what information was essential and what could be represented through icons and color-coding instead. This required iterative refinement, reducing text by half from my initial draft while maintaining clarity and impact.
-
-The color scheme and typography selection proved crucial for establishing visual hierarchy. I used contrasting colors to highlight critical safety tips, making them immediately noticeable without requiring readers to parse through dense paragraphs. Icons and illustrations added visual interest while reinforcing the message visually.
-
-This project reinforced the value of visual communication in digital literacy education. Infographics can make complex safety concepts accessible and memorable.
+<img width="2816" height="1536" alt="Gemini_Generated_Image_b8vowmb8vowmb8vo" src="https://github.com/user-attachments/assets/30a4ded3-4187-4624-a15a-5339821bb5f9" />
 
 
-The experience also highlighted the importance of audience awareness in digital design. Understanding that the target audience includes individuals with varying levels of technical knowledge, I focused on creating content that was both accessible to beginners and informative for advanced users. This balance was achieved through strategic layering of information, where basic concepts were presented prominently while additional details were available through supporting visuals.
+For this task, I used Canva's AI-powered design tools to create an infographic aimed at educating college students about digital literacy. My design specifically covers three crucial topics: Safe Internet Practices (like recognizing phishing and using secure passwords), Essential Digital Tools (such as collaboration and cloud storage software), and building a Professional Online Presence (optimizing platforms like LinkedIn).
 
-Canva's collaboration features enabled real-time feedback from peers, which proved invaluable for refining the design. The ability to share draft versions and receive immediate input helped identify areas where the message could be clearer or where visual elements might be overwhelming. This iterative process of design, feedback, and revision mirrors professional workflows in digital content creation.
+The most difficult part of this project was balancing the amount of text with the visual elements. Initially, I wanted to include comprehensive explanations for every safety tip. However, I quickly realized that too much text would clutter the infographic and overwhelm the viewer. I had to iteratively refine my content, cutting my initial draft in half to prioritize essential information. Relying on Canva AI's layout suggestions, I learned to use icons, color-coding, and visual hierarchy to convey meaning instead of dense paragraphs. 
 
-Furthermore, the project emphasized the growing role of AI in democratizing design. Previously, creating professional infographics required extensive training in tools like Adobe Illustrator. Canva's AI capabilities lower this barrier, enabling individuals without formal design education to produce high-quality visual content. This accessibility is particularly relevant in digital literacy education, where the focus should be on message clarity rather than technical design skills.
-
-The font pairing suggestions from Canva AI helped maintain readability while establishing visual hierarchy. I learned that typography isn't just about aesthetics but plays a crucial role in guiding the reader's eye through the information flow. The AI recommended combinations that enhanced legibility across different screen sizes, ensuring the infographic would be effective on both mobile devices and desktop displays.
+Ultimately, this exercise was highly engaging and taught me that effective digital communication relies just as much on visual clarity and accessibility as it does on the actual written content.
